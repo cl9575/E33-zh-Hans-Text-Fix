@@ -76,7 +76,7 @@
 - 与字体类 Mod（如 Better Fonts for Simplified Chinese）**可以共存**：两者改动的文件不重叠。
 - 与其它修改同一份 `Game.locres` 的文本 Mod **会冲突**，请只保留一个。
 - 游戏版本更新后，文本可能发生变动，届时需要重新制作；如出现错位请先卸载本 Mod。
-- 文件名带 `9999` 与 `_P` 同级优先级设计，用于覆盖 `pakchunk0` 中的原版文本。
+- 本 Mod 使用 `pakchunk9999-Windows.pak` 命名，按 pak 编号优先级覆盖 `pakchunk0` 中的原版文本。
 
 ## 文件校验
 
