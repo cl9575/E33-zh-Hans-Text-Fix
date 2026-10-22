@@ -51,6 +51,9 @@
    <Steam>\steamapps\common\Expedition 33\Sandfall\Content\Paks\pakchunk9999-Windows.pak
    ```
 
+   也可以直接下载 [Releases 页面](https://github.com/cl9575/E33-zh-Hans-Text-Fix/releases) 里的压缩包
+   （`Expedition33-zh-Hans-TextMod-v1.0.zip`），解压到 `Expedition 33\` 根目录并合并同名文件夹即可。
+
 3. 进入游戏，将语言设置为「**简体中文**」。
 
 ### 注意
